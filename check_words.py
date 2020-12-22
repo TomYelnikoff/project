@@ -3,7 +3,7 @@ import check
 
 class MyTestCase(unittest.TestCase):
     def test_word_count(self):
-        self.assertEqual(check.word_count(), 2)
+        self.assertEqual(check.word_count(), 3)
 
 
 
